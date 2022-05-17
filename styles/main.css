@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#start{
+    width: 150px;
+    height: auto;
+    background-color: blue;
+    color: ghostwhite;
+    border-radius: 3px;
+    font-size: x-large;
+}
+#start:hover{
+    cursor: pointer;
+}
